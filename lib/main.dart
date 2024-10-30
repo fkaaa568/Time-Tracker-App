@@ -11,7 +11,7 @@ class WorkTimeTrackerApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Work Time Tracker',
+      title: 'Working Time Tracker',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: WorkTimeTrackerScreen(),
     );
